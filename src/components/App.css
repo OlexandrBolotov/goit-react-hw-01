@@ -1,7 +1,14 @@
 body {
   display: flex;
   justify-content: center;  
-  align-items: center;      
-  height: 100vh;            
+  align-items: center;                
   margin: 0;
+  background-color: bisque;
+}
+h2{
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+  font-size: 30px;
+  color: #000;
+  margin: 20px auto;
 }

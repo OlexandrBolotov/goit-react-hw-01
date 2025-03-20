@@ -1,0 +1,22 @@
+.transactionHistory{
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 25px;
+}
+.tHeader, .tData {
+  border: 1px solid #807e7e; 
+  padding: 10px;
+  text-align: center; 
+}
+
+.tData{
+      text-transform: capitalize;
+      background-color: white;
+
+}
+
+.tHeader {
+  background-color: #363434; 
+  font-weight: bold;
+  color: white;
+}
